@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FxInvestmentManager (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FxInvestmentManager (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
