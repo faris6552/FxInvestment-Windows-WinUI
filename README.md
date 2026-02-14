@@ -1,5 +1,3 @@
-Perfect — this is a very strong project if positioned correctly.
-
 📈 Investment Portfolio Account Manager
 
 C# Financial Portfolio Tracking & Performance Analysis System
