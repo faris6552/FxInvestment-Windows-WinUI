@@ -1,7 +1,7 @@
 📈 Investment Portfolio Account Manager
 
 C# Financial Portfolio Tracking & Performance Analysis System
-
+---
 ## 📸 System Preview
 
 <p align="center">
