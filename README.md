@@ -150,12 +150,12 @@ Unrealized and realized gains
 
 <p align="center">
   <img src="fxinvestementhome.png" width="45%" />
-  <img src="screenshots/portfolio-view.png" width="45%" />
+  <img src="fxinvestmentaccounts.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/analytics-graph.png" width="45%" />
-  <img src="screenshots/server-monitor.png" width="45%" />
+  <img src="fxinvestmentperformance.png" width="45%" />
+  <img src="fxinvestmentreports.png" width="45%" />
 </p>
 
 ---
