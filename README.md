@@ -2,7 +2,17 @@
 
 C# Financial Portfolio Tracking & Performance Analysis System
 
+## 📸 System Preview
 
+<p align="center">
+  <img src="fxinvestementhome.png" width="45%" />
+  <img src="fxinvestmentaccounts.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="fxinvestmentperfomance.png" width="45%" />
+  <img src="fxinvestmentreports.png" width="45%" />
+</p>
 ---
 
 📌 Overview
@@ -146,17 +156,7 @@ Unrealized and realized gains
 5. Performance reports are generated.
 
 
-## 📸 System Preview
 
-<p align="center">
-  <img src="fxinvestementhome.png" width="45%" />
-  <img src="fxinvestmentaccounts.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="fxinvestmentperfomance.png" width="45%" />
-  <img src="fxinvestmentreports.png" width="45%" />
-</p>
 
 ---
 
