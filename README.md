@@ -149,7 +149,7 @@ Unrealized and realized gains
 ## 📸 System Preview
 
 <p align="center">
-  <img "fxinvestmenthome.png" width="45%" />
+  <img src="fxinvestementhome.png" width="45%" />
   <img src="screenshots/portfolio-view.png" width="45%" />
 </p>
 
