@@ -146,7 +146,17 @@ Unrealized and realized gains
 5. Performance reports are generated.
 
 
+## 📸 System Preview
 
+<p align="center">
+  <img "fxinvestmenthome.png" width="45%" />
+  <img src="screenshots/portfolio-view.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/analytics-graph.png" width="45%" />
+  <img src="screenshots/server-monitor.png" width="45%" />
+</p>
 
 ---
 
